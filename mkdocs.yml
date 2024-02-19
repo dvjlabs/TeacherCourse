@@ -9,8 +9,8 @@ copyright: >
 theme:
   name: material
   palette:
-      primary: black
-      accent: black
+      primary: deep orange
+      accent: deep orange
   language: it
   features:
     - navigation.tabs
