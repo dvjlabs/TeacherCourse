@@ -56,7 +56,7 @@ nav:
         - Introduzione: AI/00_intro.md
     - Stampa3D:
         - Introduzione: 3D/00_intro.md
-    - Realtà virtuale e aumentata:
+    - "Realtà virtuale e aumentata":
         - Introduzione: VAR/00_intro.md
     - Coding:
         - Introduzione: PY/00_intro.md
